@@ -1,7 +1,7 @@
 {
   "name": "eap-ui-admin-vue3",
   "version": "2.1",
-  "description": "基于yudao-ui-admin-vue3(author: xingyu), 技术栈vue3、vite4、element-plus、typesScript",
+  "description": "技术栈vue3、vite4、element-plus、typesScript",
   "author": "openeap",
   "private": false,
   "scripts": {
